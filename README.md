@@ -33,6 +33,6 @@ Email: cse.19bcs3832@gmail.com
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sougatachanda-developer&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sougatachanda-developer&layout=compact)
 
---
+---
 
 ![](https://komarev.com/ghpvc/?username=Devloper)
