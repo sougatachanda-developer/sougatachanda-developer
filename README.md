@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi 👋,
+## I'm Sougata Chanda
+
+A Full Stack Developer who has experience in Mobile App (Native + Cross Platform ) Development and AI integrations.
+
+## Tech Stack
+
+Next JS
+Tailwind CSS
+React
+Kotlin
+React Native
+
+Nest JS
+Express JS
+Node JS
+
+## Projects
+-------
+
+## Contact
+
+Email: cse.19bcs3832@gmail.com
+
 
 <!--
 **sougatachanda-developer/sougatachanda-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
