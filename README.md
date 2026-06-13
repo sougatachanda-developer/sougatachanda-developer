@@ -1,4 +1,4 @@
-# Hi 👋, ## I'm Sougata Chanda
+# Hi 👋, I'm Sougata Chanda
 
 A Full Stack Developer who has experience in Mobile App (Native + Cross Platform ) Development and AI integrations.
 
