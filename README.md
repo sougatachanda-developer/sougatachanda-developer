@@ -1,4 +1,4 @@
-## Hi, I'm Sougata Chanda  👋
+# Hi, I'm Sougata Chanda  👋
 ### Full-Stack Developer | Mobile App Developer | Software Architect | SaaS Builder
 I design and build scalable web applications, APIs, automation systems and AI powered products. My focus is on creating  reliable, secure and user-centric software that can grow from MVP to production scale.
 
@@ -7,6 +7,7 @@ I design and build scalable web applications, APIs, automation systems and AI po
 ## About Me
 
 ## Tech Stack
+### Frontend
 
 - Next JS
 - Tailwind CSS
@@ -14,6 +15,7 @@ I design and build scalable web applications, APIs, automation systems and AI po
 - Kotlin
 - React Native
 
+### Backend
 - Nest JS
 - Express JS
 - Node JS
