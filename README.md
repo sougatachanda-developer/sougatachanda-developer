@@ -29,5 +29,4 @@ Email: cse.19bcs3832@gmail.com
 
 ---
 
-Profile Views
 ![](https://komarev.com/ghpvc/?username=Devloper)
